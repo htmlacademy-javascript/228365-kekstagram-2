@@ -1,8 +1,8 @@
 # Личный проект «Кекстаграм»
 
-* Студент: <a href="https://htmlacademy.ru/profile/ildar-gn" target="_blank">Ildar Gnn</a>
-* Наставник: <a href="https://htmlacademy.ru/profile/crazer" target="_blank">Никита Сигов</a>
-* Сайт: (=^_^=) <a href="https://ildar-gn.github.io/228365-kekstagram-2" target="_blank">KEKSTAGRAM</a>
+* Студент: [Ildar Gnn](https://htmlacademy.ru/profile/ildar-gn)
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer)
+* (=^_^=) [KEKSTAGRAM](https://ildar-gn.github.io/228365-kekstagram-2)
 
 ---
 

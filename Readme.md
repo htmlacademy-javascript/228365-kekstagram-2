@@ -2,10 +2,7 @@
 
 * Студент: [Ildar Gnn](https://htmlacademy.ru/profile/ildar-gn)
 * Наставник: [Неизвестно]
-
-### Страница проекта:
-
-(=^_^=) [KEKSTAGRAM](https://ildar-gn.github.io/228365-kekstagram-2)
+* Страница проекта: (=^_^=) [KEKSTAGRAM](https://ildar-gn.github.io/228365-kekstagram-2)
 
 ---
 
